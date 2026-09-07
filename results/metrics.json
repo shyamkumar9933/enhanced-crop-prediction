@@ -1,0 +1,8 @@
+{
+  "test_accuracy": 0.875,
+  "cv_mean": 0.8759,
+  "cv_std": 0.0073,
+  "n_samples": 2200,
+  "n_classes": 22,
+  "model": "Random Forest"
+}
